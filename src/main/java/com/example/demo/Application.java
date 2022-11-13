@@ -9,7 +9,7 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 		
-		System.out.println("Changes for Git");
+		System.out.println("Changes for Git");   //Changes for HIS 134
 	}
 
 }
